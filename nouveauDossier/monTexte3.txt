@@ -1,2 +1,2 @@
 3e git test
-commi test
+commit test
